@@ -1,0 +1,1 @@
+d = dict(name = 'hong',age = 23,score = 99)
